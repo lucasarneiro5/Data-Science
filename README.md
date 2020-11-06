@@ -6,3 +6,10 @@ This repository is a repository using Python projects/examples about Data Analys
 
 - Here is an exaple of Dashboard using Plotly:
 https://plotly.com/~lucasarneiro.v/14/dashboard-de-vendas-da-empresa-olist/
+
+
+*OBS: 
+
+" S_ " = Query files. Used to studies.
+
+" P_ " = Projects files. Built Projects with real dataset.
